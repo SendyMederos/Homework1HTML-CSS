@@ -15,6 +15,7 @@ Changes on accessibility:
   The images were resized to fit the website requirements yet keep their quality. 
   Alt attributes were added to each of the images 
   A title was added to the new figure element.
+  Resize elements and properties based on the size of the screen to keep the style of the website. 
 
 Changes for Sustainability: 
   Comments were added to the HTML and the CSS file. 
