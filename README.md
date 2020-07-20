@@ -23,4 +23,4 @@ Changes for Sustainability:
   Repeated selectors and properties were consolidated on the CSS file. 
   Some selectors and properties were unnecessary given the changes made to the code. 
 
-https://sendymederos.github.io/Homework1HTML-CSS/#search-engine-optimization
+https://sendymederos.github.io/Homework1HTML-CSS/
